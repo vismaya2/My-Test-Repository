@@ -1,0 +1,39 @@
+/etc/init.d/httpd status
+   19  sudo /etc/init.d/apache2 restart
+   20  /etc/init.d/httpd status
+   21  service
+   22  service apache2 restart
+   23* 
+   24  /etc/init.d/httpd status
+   25  service
+   26  gedit php.php
+   27  68:~# /etc/init.d/httpd status
+   28  -bash: /etc/init.d/httpd: No such file or directory
+   29  root@ccf-Vostro-3268:~# service
+   30  Usage: ser68:~# /etc/init.d/httpd status
+   31  -bash: /etc/init.d/httpd: No such file or directory
+   32  root@ccf-Vostro-3268:~# service
+   33  Usage: ser68:~# /etc/init.d/httpd status
+   34  -bash: /etc/init.d/httpd: No such file or directory
+   35  root@ccf-Vostro-3268:~# service
+   36  Usage: ser68:~# /etc/init.d/httpd status
+   37  -bash: /etc/init.d/httpd: No such file or directory
+   38  root@ccf-Vostro-3268:~# service
+   39  Usage: ser68:~# /etc/init.d/httpd status
+   40  -bash: /etc/init.d/httpd: No such file or directory
+   41  root@ccf-Vostro-3268:~# service
+   42  Usage: ser68:~# /etc/init.d/httpd status
+   43  -bash: /etc/init.d/httpd: No such file or directory
+   44  root@ccf-Vostro-3268:~# service
+   45  sudo apt-get install php7.0 
+   46  php -r 'echo "\n\nYour PHP installation is working fine.\n\n\n";'
+   47  cd /var/www
+   48  gedit test.php
+   49  cd /var/www
+   50  ll
+   51  cd html/
+   52  ll
+   53  gedit test.php
+   54  history
+root@ccf-Vostro-3268:/var/www/html# 
+
